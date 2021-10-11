@@ -7,7 +7,7 @@ Include the date you created this project and README file.
 ### Bikeshare Data
 Replace the Project Title
 
-### Description
+### Finding insights from bikeshae data of Chicago, New York City & Washington
 Describe what your project is about and what it does
 
 ### chicago.csv, washington.csv, new_york_city.csv
